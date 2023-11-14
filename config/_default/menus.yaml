@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 9f4fd1aa-9939-4e3a-a7f9-aea2eb224f9f
+  name: Full Video
+  pageRef: /pages/video
+  weight: 10
+- identifier: 4a142dcb-a3a6-42e5-b7be-fba5fc37b211
+  name: Chapterized Video and Study Guide
+  pageRef: /pages/chapterized-video
+  weight: 20

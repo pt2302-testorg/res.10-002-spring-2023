@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Non Credit"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "3227e5fc-418f-4d3a-ed6a-8d5cfc6c232a",
+      "c202a274-1873-4d48-80d3-5cb99f8f68eb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0da41398-9560-4c17-9251-4044edd84e0c",
+    "website": "ethics-of-bias-in-ai"
+  },
+  "course_title": "Ethics of AI Bias",
+  "hide_download": false,
+  "course_description": "This video aims to delve into the human problems brought out by issues in artificial intelligence, specifically with respect to bias. It is suitable for classroom use or as a standalone video for those who wish to understand the issue more deeply than is conventionally covered. For classroom use, we recommend watching the {{% resource_link \"4a142dcb-a3a6-42e5-b7be-fba5fc37b211\" \"chapterized version of the video\" %}} and working through the teaching materials provided for each chapter.",
+  "department_numbers": [
+    "10"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.10-002",
+  "course_image_thumbnail": {
+    "content": "d37f5685-650d-43fe-a0dd-4b7500210b71",
+    "website": "ethics-of-bias-in-ai"
+  },
+  "learning_resource_types": [
+    "Other Video"
+  ],
+  "site_uid": "cd4ea5d5-4f20-493b-8dc4-dd72babdf4e1",
+  "site_short_id": "res.10-002-spring-2023"
+}
